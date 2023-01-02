@@ -1,2 +1,3 @@
 # CelestialCalculator
-Calculate the position of a star at a given time
+Calculate the position of a star at a given time and position.
+
